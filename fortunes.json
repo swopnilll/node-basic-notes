@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1, 
+        "message": "You are going to die soon !",
+        "lucky_number": "13",
+        "spirit_animal": "Pig"
+    },
+    {
+        "id": 2, 
+        "message": "New Jon on the way !",
+        "lucky_number": "0",
+        "spirit_animal": "Tiger"
+    },
+    {
+        "id": 3, 
+        "message": "You will marry soon",
+        "lucky_number": "7",
+        "spirit_animal": "Lion"
+    }
+]
